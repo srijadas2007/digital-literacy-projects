@@ -1,7 +1,7 @@
 # Digital Literacy Project
 
-## Name: [Your Name]  
-## Reg No: [Your Reg No]  
+## Name: Srija Das 
+## Reg No: 25BAI10576
 ## Course: CSE0001 Digital Literacy  
 
 ---
